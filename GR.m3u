@@ -1,0 +1,395 @@
+#EXTM3U
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EPT-HD.gr" tvg-shift="+2" group-title="GR VIP", ERT HD
+http://185.142.236.89:8080/live/GR-DIGEA-ERT-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EPT1.gr" tvg-shift="+2" group-title="GR VIP", ERT1
+http://185.142.236.89:8080/live/GR-DIGEA-ERT1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EPT2.gr" tvg-shift="+2" group-title="GR VIP", ERT2
+http://185.142.236.89:8080/live/GR-DIGEA-ERT2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EPT3.gr" tvg-shift="+2" group-title="GR VIP", ERT3
+http://185.142.236.89:8080/live/GR-DIGEA-ERT3/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="mega.gr" tvg-shift="+2" group-title="GR VIP", MEGA
+http://185.142.236.89:8080/live/GR-DIGEA-MEGA/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ANT1.gr" tvg-shift="+2" group-title="GR VIP", ANT1 HD
+http://185.142.236.89:8080/live/GR-DIGEA-ANT1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="alpha.gr" tvg-shift="+2" group-title="GR VIP", ALPHA HD
+http://185.142.236.89:8080/live/GR-DIGEA-ALPHA/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP", STAR HD
+http://185.142.236.89:8080/live/GR-DIGEA-STAR/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Skai.gr" tvg-shift="+2" group-title="GR VIP", SKAI HD
+http://185.142.236.89:8080/live/GR-DIGEA-SKAI/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ETV.GR" tvg-shift="+2" group-title="GR VIP", EPSILON HD
+http://185.142.236.89:8080/live/GR-DIGEA-EPSILON/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Macedonia.gr" tvg-shift="+2" group-title="GR VIP", MAKEDONIA HD
+http://185.142.236.89:8080/live/GR-DIGEA-MAKEDONIA/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaCinema1.gr" tvg-shift="+2" group-title="GR VIP", NOVA CINEMA 1 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVACINEMA-1-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaCinema2.gr" tvg-shift="+2" group-title="GR VIP", NOVA CINEMA 2 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVACINEMA-2-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema1.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE CINEMA 1 HD
+http://5.196.123.252:8080/live/VIP-GR-OC-1-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema2.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE CINEMA 2 HD
+http://5.196.123.252:8080/live/VIP-GR-OTE-CINEMA-2-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema3.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE CINEMA 3 HD
+http://5.196.123.252:8080/live/VIP-GR-OTE-CINEMA-3-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema4.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE CINEMA 4 HD
+http://5.196.123.252:8080/live/VIP-GR-OTE-CINEMA-4-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="VILLAGE.gr" tvg-shift="+2" group-title="GR VIP", VILLAGE HD
+http://5.196.123.252:8080/live/VIP-GR-VILLAGE-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="FOX.gr" tvg-shift="+2" group-title="GR VIP", FOX HD
+http://185.142.236.89:8080/live/VIP-GR-FOX-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="FOXLIFE.gr" tvg-shift="+2" group-title="GR VIP", FOX LIFE HD
+http://185.142.236.89:8080/live/VIP-GR-FOXLIFE-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="SundanceChannelHD.gr" tvg-shift="+2" group-title="GR VIP", SUNDANCE HD
+http://185.142.236.89:8080/live/VIP-GR-SUNDANCE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="61939.stream" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE INFO
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-INFO/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 1 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-1HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 2 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-2-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 3 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-3-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 4 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-4-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 5 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-5-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 6 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-6-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 7 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-7-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 8 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-8-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 9 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-9-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 10 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-10-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 11 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-11-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NOVA PREMIERE 12 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-12-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1946.stream" tvg-shift="+2" group-title="GR VIP", BEST Movies 1
+http://185.142.236.89:8080/live/VIP-GR-MOVIES-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1947.stream" tvg-shift="+2" group-title="GR VIP", BEST Movies 2
+http://185.142.236.89:8080/live/VIP-GR-MOVIES-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1996.stream" tvg-shift="+2" group-title="GR VIP", BEST Movies 3
+http://185.142.236.89:8080/live/VIP-GR-MOVIES-3/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1997.stream" tvg-shift="+2" group-title="GR VIP", BEST Movies 4
+http://185.142.236.89:8080/live/VIP-GR-MOVIES-4/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1998.stream" tvg-shift="+2" group-title="GR VIP", BEST Movies 5
+http://185.142.236.89:8080/live/VIP-GR-MOVIES-5/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="1999.stream" tvg-shift="+2" group-title="GR VIP", BEST Movies 6
+http://185.142.236.89:8080/live/VIP-GR-MOVIES-6/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", CINEMA GREEK 1
+http://185.142.236.89:8080/live/VIP-GR-CINEMA-GREEK-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", CINEMA GREEK 2
+http://185.142.236.89:8080/live/VIP-GR-CINEMA-GREEK-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK CINEMA 80s 1
+http://185.142.236.89:8080/live/VIP-GR-CINEMA-80S-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK CINEMA 80s 2
+http://185.142.236.89:8080/live/VIP-GR-CINEMA-80S-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK CINEMA 80s 3
+http://185.142.236.89:8080/live/VIP-GR-CINEMA-80S-3/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK OLD MOVIES 1
+http://185.142.236.89:8080/live/VIP-GREEK-OLD-MOVIES-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK OLD MOVIES 2
+http://185.142.236.89:8080/live/VIP-GREEK-OLD-MOVIES-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK OLD MOVIES 3
+http://185.142.236.89:8080/live/VIP-GREEK-OLD-MOVIES-3/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK SERIES 1
+http://185.142.236.89:8080/live/VIP-GREEK-SERIES-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GREEK SERIES 2
+http://185.142.236.89:8080/live/VIP-GREEK-SERIES-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports1.gr" tvg-shift="+2" group-title="GR VIP", NOVA SPORTS 1 (A)
+http://185.142.236.89:8080/live/VP-GR-NOVAMIX-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports2.gr" tvg-shift="+2" group-title="GR VIP", NOVA SPORTS 2B (Only for Games)
+http://185.142.236.89:8080/live/VIP-GR-NOVASPORTS-2-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports3.gr" tvg-shift="+2" group-title="GR VIP", NOVA SPORTS 3 (A)
+http://185.142.236.89:8080/live/VIP-GR-NOVASPORTS-3-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport1.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 1 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-1-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport1.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 1 SD
+http://5.196.123.252:8080/live/VIP-GR-OTE-SPORT-1-SD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 2 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-2-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 2 SD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-2-SD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 3 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-3-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport3.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 3 SD
+http://5.196.123.252:8080/live/VIP-GR-OTE-SPORT-3-SD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 4 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-4-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 4 SD
+http://5.196.123.252:8080/live/VIP-GR-OTE-SPORT-4-SD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 5 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-5-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 5 SD
+http://5.196.123.252:8080/live/VIP-GR-OTE-SPORT-5-SD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport6.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 6 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-6-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport7.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 7 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-7-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport8.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 8 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-8-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT 9 HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-9-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESportsHighlights.gr" tvg-shift="+2" group-title="GR VIP", COSMOTE SPORT HIGHLIGHTS HD
+http://185.142.236.89:8080/live/VIP-GR-OTE-SPORT-HIGHLIGHTS-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", FOX SPORTS HD
+http://185.142.236.89:8080/live/VIP-GR-FOX-SPORTS-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", OUTDOOR HD
+http://185.142.236.89:8080/live/VIP-GR-OUTDOOR-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EuroSport1.gr" tvg-shift="+2" group-title="GR VIP", EUROSPORT 1
+http://5.196.123.252:8080/live/VIP-GR-EUROSPORT-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="EuroSport2.gr" tvg-shift="+2" group-title="GR VIP", EUROSPORT 2
+http://5.196.123.252:8080/live/VIP-GR-EUROSPORT-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="MotorvisionChannel.gr" tvg-shift="+2" group-title="GR VIP", MOTOR VISION
+http://5.196.123.252:8080/live/VIP-GR-MOTOR-VISION/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", EDGE SPORTS
+http://5.196.123.252:8080/live/VIP-GR-EDGE-SPORTS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", ACTION 24
+http://5.196.123.252:8080/live/VIP-GR-ACTION-24/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTEHistory.gr" tvg-shift="+2" group-title="GR VIP", OTE HISTORY
+http://185.142.236.89:8080/live/VIP-GR-OTE-HISTORY/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="TheHistoryChannel.gr" tvg-shift="+2" group-title="GR VIP", HISTORY HD
+http://185.142.236.89:8080/live/VIP-GR-HISTORY-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ViasatHistory.gr" tvg-shift="+2" group-title="GR VIP", VIASAT HISTORY HD 
+http://185.142.236.89:8080/live/VIP-GR-VIASAT-HISTORY/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ViasatExplore.gr" tvg-shift="+2" group-title="GR VIP", VIASAT EXPLORE HD 
+http://185.142.236.89:8080/live/VIP-GR-VIASAT-EXPLORE-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ViasatNature.gr" tvg-shift="+2" group-title="GR VIP", VIASAT NATURE HD 
+http://185.142.236.89:8080/live/VIP-GR-VIASAT-NATURE-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="animalplanet.gr" tvg-shift="+2" group-title="GR VIP", ANIMAL PLANET HD
+http://185.142.236.89:8080/live/VIP-GR-ANIMAL-PLANET/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="BBCEarth.gr" tvg-shift="+2" group-title="GR VIP", BBC EARTH HD
+http://185.142.236.89:8080/live/VIP-GR-BBC-EARTH/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NATIONAL GEOGRAPHIC HD
+http://185.142.236.89:8080/live/VIP-GR-NATIONAL-GEOGRAPHIC-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", NATIONAL GEOGRAPHIC WILD
+http://185.142.236.89:8080/live/VIP-GR-NATIONAL-GEOGRAPHIC-WILD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="discovery.gr" tvg-shift="+2" group-title="GR VIP", DISCOVERY
+http://185.142.236.89:8080/live/VIP-GR-DISCOVERY/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", DISCOVERY ID
+http://185.142.236.89:8080/live/VIP-GR-DISCOVERY-ID/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="DiscoveryID.gr" tvg-shift="+2" group-title="GR VIP", DISCOVERY IDX
+http://185.142.236.89:8080/live/VIP-GR-DISCOVERY-IDX/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="DiscoveryHD.gr" tvg-shift="+2" group-title="GR VIP", DISCOVERY SHOWCASE
+http://185.142.236.89:8080/live/VIP-GR-DISCOVERY-SHOWCASE-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", DISCOVERY SCIENCE
+http://185.142.236.89:8080/live/VIP-GR-Discovery-Science/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", DISCOVEY TURBO XTRA
+http://185.142.236.89:8080/live/VIP-GR-DTX/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="CrimeInvestigation.gr" tvg-shift="+2" group-title="GR VIP", CRIME-INVESTIGATION HD
+http://185.142.236.89:8080/live/VIP-GR-CRIME-INVESTIGATION-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="travel.gr" tvg-shift="+2" group-title="GR VIP", TRAVEL
+http://5.196.123.252:8080/live/VIP-GR-TRAVEL/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="TLC.gr" tvg-shift="+2" group-title="GR VIP", TLC
+http://5.196.123.252:8080/live/VIP-TLC/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Eentertainment.gr" tvg-shift="+2" group-title="GR VIP", E! ENTERTAINMENT
+http://5.196.123.252:8080/live/VIP-GR-E-ENTERTAINMENT/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Fineliving.gr" tvg-shift="+2" group-title="GR VIP", FINE LIVING HD
+http://5.196.123.252:8080/live/VIP-GR-FINE-LIVING-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", FOOD NETWORK HD
+http://185.142.236.89:8080/live/VIP-GR-FOOD-NETWORK-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", FASHION TV HD
+http://185.142.236.89:8080/live/VIP-GR-FASHION-TV-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", BODY IN BALANCE
+http://185.142.236.89:8080/live/VIP-GR-BODY-IN-BALABCE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NauticalChannel.gr" tvg-shift="+2" group-title="GR VIP", NAUTICAL CHANNEL HD
+http://185.142.236.89:8080/live/VIP-GR-NAUTICAL-CHANNEL-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Nickelodeon.gr" tvg-shift="+2" group-title="GR VIP", NICKELODEON
+http://5.196.123.252:8080/live/VIP-GR-NICKELODEON/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="DisneyChannel.gr" tvg-shift="+2" group-title="GR VIP", DISNEY CHANNEL
+http://5.196.123.252:8080/live/VIP-GR-DISNEY/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="DisneyJunior.gr" tvg-shift="+2" group-title="GR VIP", DISNEY JUNIOR
+http://5.196.123.252:8080/live/VIP-GR-DISNEY-JUNIOR/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", DISNEY XD
+http://5.196.123.252:8080/live/VIP-GR-DISNEY-XD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="BabyTV.gr" tvg-shift="+2" group-title="GR VIP", BABY TV
+http://5.196.123.252:8080/live/VIP-GR-BABY-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", SMILE
+http://5.196.123.252:8080/live/VIP-GR-SMILE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", JIM JAM
+http://185.142.236.89:8080/live/VIP-GR-JIM-JAM/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", KIDS 1
+http://185.142.236.89:8080/live/VIP-GREEK-KIDS-1/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", KIDS 2
+http://185.142.236.89:8080/live/VIP-GREEK-KIDS-2/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", KIDS 3
+http://185.142.236.89:8080/live/VIP-GREEK-KIDS-3/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", KIDS 4
+http://185.142.236.89:8080/live/VIP-GREEK-KIDS-4/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", KIDS 5
+http://185.142.236.89:8080/live/VIP-GREEK-KIDS-5/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="MadHits.gr" tvg-shift="+2" group-title="GR VIP", MAD
+http://5.196.123.252:8080/live/VIP-GR-MAD-HITS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", MAD HITS
+http://5.196.123.252:8080/live/VIP-GR-MAD-HITS-2909/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", RISE
+http://5.196.123.252:8080/live/VIP-GR-MTV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", MTV ROCKS
+http://5.196.123.252:8080/live/MTV-ROCKS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", MTV DANCE
+http://5.196.123.252:8080/live/MTV-DANCE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", MTV HITS
+http://5.196.123.252:8080/live/MTV-HITS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR MUSIC-X
+http://5.196.123.252:8080/live/VIP-GR-MUSIC-X/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP", GR MUSIC MIX
+http://5.196.123.252:8080/live/VIP-GR-MUSIC-MIX/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", ERT HD
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ERT-HD-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", ERT HD (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ERT-HD-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", ERT 1
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ERT-1-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et1.gr" tvg-shift="+2" group-title="GR VIP2", ERT 1 (C)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ERT-1-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", ERT 2
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ERT-2-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="et3.gr" tvg-shift="+2" group-title="GR VIP2", ERT 3
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ERT-3-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="ant1.gr" tvg-shift="+2" group-title="GR VIP2", ANT1
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ANT1-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", ANT1 (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ANT1-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="mega.gr" tvg-shift="+2" group-title="GR VIP2", MEGA
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-MEGA-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", MEGA (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-MEGA-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="alpha.gr" tvg-shift="+2" group-title="GR VIP2", ALPHA
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ALPHA-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", ALPHA (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ALPHA-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Skai.gr" tvg-shift="+2" group-title="GR VIP2", SKAI
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-SKAI-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", SKAI (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-SKAI-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="star.gr" tvg-shift="+2" group-title="GR VIP2", STAR
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-STAR-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", STAR (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-STAR-B/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", MAKEDONIA TV HD
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-MAKEDONIA-TV-HD-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Macedonia.gr" tvg-shift="+2" group-title="GR VIP2", MAKEDONIA TV (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-MAKEDONIA-TV-BACKUP/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Kontra.gr" tvg-shift="+2" group-title="GR VIP2", KONTRA TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-KONTRA-TV-948/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", EPSILON
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-EPSILON-A/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", EPSILON (BACKUP)
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-Flash-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Action24.gr" tvg-shift="+2" group-title="GR VIP2", ACTION 24
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ACTION-24/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", KONTRA TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-KONTRA-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", EXTRA
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-EXTRA/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", EURONEWS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-EURONEWS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", SBC TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-SBC-TC/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", KRITI TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-KRITI/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", 4E TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-4E-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", EPIRUS TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-EPIRUS-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", IONIAN TV
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-IONIAN-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", ART CHANNEL
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ART-CHANNEL/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", VOULLI
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-VOULLI/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", TV 100
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-TV-100/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", BLUE SKY
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-BLUE-SKY/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", RIK SAT CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-RIK-SAT-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="CyBC1.cy" tvg-shift="+2" group-title="GR VIP2", RIK1 CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-RIK1-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", RIK2 CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-RIK2-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="Alpha.cy" tvg-shift="+2" group-title="GR VIP2", ALPHA CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-AlphaCYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", SIGMA CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-SIGMA-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", TVONE CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-MEGAONE-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", ANTENNA CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-ANTENNA-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", PLUS CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-PLUS-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", EXTRA CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-EXTRA-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", CAPITAL CYPRUS
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-CAPITAL-CYPRUS/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP2", CORFU
+http://ns3082557.ip-147-135-255.eu:28088/live/GR-CORFU-TV/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema1.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE CINEMA 1 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-CINEMA-1-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema2.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE CINEMA 2 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-CINEMA-2-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema3.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE CINEMA 3 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-CINEMA-3-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTECinema4.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE CINEMA 4 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-CINEMA-4-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", VILLAGE (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-VILLAGE-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="FOX.gr" tvg-shift="+2" group-title="GR VIP Back Up", FOX (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-FOXEX/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", FOX LIFE (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-FOXLIFEEXC/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="NovaSports1.gr" tvg-shift="+2" group-title="GR VIP Back Up", NOVA SPORTS 1 (A)
+http://185.142.236.89:8080/live/VP-GR-NOVAMIX-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport1.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 1 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-1-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport2.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 2 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-2-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 3 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-3-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport4.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 4 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-4-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport5.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 5 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-5-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport6.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 6 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-6-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport7.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 7 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-7-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESport8.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT 8 HD (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-8-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="OTESportsHighlights.gr" tvg-shift="+2" group-title="GR VIP Back Up", COSMOTE SPORT HIGHLIGHTS (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-SPORT-HIGHLIGHTS-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", MOTORVISION (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-MOTOREXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", OTE HISTORY (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-HISTORY-B-EXCHANGE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NATIONAL GEOGRAPHIC (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-NATIONALE/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="DiscoveryHD.gr" tvg-shift="+2" group-title="GR VIP Back Up", DISCOVERY SHOWCASE (E)
+http://ns335432.ip-5-196-64.eu:8080/live/VIP-GR-OTE-DISSHOWEXC/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 11 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-11-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 10 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-10-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 9 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-9-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 8 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-8-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 7 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-7-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 6 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-6-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 5 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-5-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 4 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-4-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 3 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-3-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 2 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-2-HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 1 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-1HD/mpegts?token=lakakis:p1xb6tCsRn
+#EXTINF:-1 aspect-ratio="16:9" tvg-id="" tvg-shift="+2" group-title="GR VIP Back Up", NOVA PREMIERE 12 HD
+http://185.142.236.89:8080/live/VIP-GR-NOVA-PREMIERE-12-HD/mpegts?token=lakakis:p1xb6tCsRn
